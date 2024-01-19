@@ -1,0 +1,6 @@
+[submodule "clubz-flutter"]
+	path = clubz-flutter
+	url = git@github.com:MichelBusse/clubz-flutter.git
+[submodule "clubz-supabase"]
+	path = clubz-supabase
+	url = git@github.com:MichelBusse/clubz-supabase.git
