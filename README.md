@@ -35,9 +35,9 @@ To discover and install the live version of the app, visit:
 - The feed can be filtered by city and radius
 
 ## App Security
+- Permissions and rules for individual users (like which profiles and events a user can view and query) are managed by custom row level security rules for Supabase and Postgres
 
 ## Screenshots
-
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em;">
 <img src="./screenshots/feed.png" alt="feed example" width = "200em" >
 <img src="./screenshots/profile.png" alt="profile example" width = "200em" >
